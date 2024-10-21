@@ -4,3 +4,5 @@ Python
 Statistics
 Numpy
 Pandas
+Algorithms
+Machine Learning
