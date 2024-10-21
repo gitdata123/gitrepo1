@@ -3,3 +3,4 @@ how are you
 Python
 Statistics
 Numpy
+Pandas
