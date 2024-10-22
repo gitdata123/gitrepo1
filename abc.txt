@@ -6,3 +6,4 @@ Numpy
 Pandas
 Algorithms
 Machine Learning
+Deep Learning
